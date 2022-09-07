@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Chitrak Chattopadhyay
+- 👀 I’m interested in ...anything and everything, Networks and web protocols for the time being. 
+- 🌱 I’m currently learning ...How to make and host a noice website, not just one page.
+- 💞️ I’m looking to collaborate on ...scripting, desigh ui,ux, etc.
+- 📫 How to reach me ...umm, lets see.
